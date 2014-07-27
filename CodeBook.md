@@ -2,10 +2,12 @@
 Note that the values for the variables 2-68 (i.e. everything except the *subject* and *activity*) have been calculated by averaging the corresponding features of the source dataset for each subject/activity.
 
 1. subject
-  Encoded id of the subject
+
+  Encoded id of the subject  
   Integer [1..30]
 2. activity
-  Description of the performed activity
+
+  Description of the performed activity  
   Factor with 6 values: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
 3. tBodyAcc_mean_X
 4. tBodyAcc_mean_Y
